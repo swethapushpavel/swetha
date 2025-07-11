@@ -9,7 +9,7 @@
 
 ## 📖 About Me
 
-- 🌱 I’m currently learning **React, Firebase, and Node.js**
+- 🌱 I’m currently learning **React, REactNative, Firebase, and Node.js**
 - 💬 Ask me about **JavaScript, Express, MongoDB**
 - 📫 Reach me at: (mailto:swethapushpavelv@gmail.com)
 
@@ -17,7 +17,7 @@
 
 ## 🔗 LeetCode Profile
 
-- 📘 [Click here to view my LeetCode](https://leetcode.com/u/pIWoujs035/)
+- 📘 https://leetcode.com/u/pIWoujs035/
 
 ---
 
@@ -29,10 +29,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
----
-
 ## 📁 Projects
 
 - MediConnect (https://github.com/21ISR057/HealthCamp) – Won second place in 3o hour KEC hackathon.Developed a healthcare app to improve access to free health camps,vaccinations, and emergency services. Features include real-timeupdates, multi-language support, and easy online registration,empowering both users and healthcare providers.
@@ -40,10 +36,12 @@ TECHNOLOGIES : ReactNative ,Firebase and Typescript.
 ROLE : Github management, Developer.
 DURATION : 30 hours.
 
-JourneyEase (https://github.com/swethapushpavel/Consultancy-Project) – he project is for the customers to book the vehicles on onlineplatform as per their comfort needed.
+- JourneyEase (https://github.com/swethapushpavel/Consultancy-Project) – The project is for the customers to book the vehicles on online
+platform as per their comfort needed.
 TECHNOLOGIES : Bootstrap, Node js and MongoDB.
 ROLE : Full Stack Developer.
-DURATION : 1 month.
+DURATION : 1 month
+
 ---
 
 ## 📬 Contact
