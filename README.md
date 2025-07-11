@@ -1,30 +1,68 @@
-<h1 align="center">Hi 👋, I'm Swetha</h1>
+<h1 align="center">Hi 👋, I'm Swetha Pushpavel</h1>
+<h3 align="center">An enthusiastic software developer passionate about building reliable web apps.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Developer;Learning+JavaScript+and+Node.js;Open+Source+Explorer" />
-</p>
-
-- 🌱 I’m currently learning: **React**, **Node.js**, **MongoDB**
-- 🔭 I’m working on: **Personal projects and fun experiments**
-- 💬 Ask me about: **JavaScript**, **Firebase**, **APIs**
-- 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/swetha-pushpavel-321575259/)
-
----
-
-### 🛠️ Tools I Use
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://avatars.githubusercontent.com/swethapushpavel" width="150" style="border-radius: 50%" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📖 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swetha-pushpavel&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swetha-pushpavel&theme=radical" />
-</p>
+- 🌱 I’m currently learning **React, Firebase, and Node.js**
+- 💬 Ask me about **JavaScript, Express, MongoDB**
+- 📫 Reach me at: (mailto:swethapushpavelv@gmail.com)
+
+---
+
+## 🔗 LeetCode Profile
+
+- 📘 [Click here to view my LeetCode](https://leetcode.com/u/pIWoujs035/)
+
+---
+
+## 🛠️ Technologies and Skills
+
+- JavaScript • Node.js • Express • Node.js • ReactNative 
+- HTML • CSS • MongoDB • REST APIs  
+- Git • GitHub • Postman
+
+---
+
+## 📊 GitHub Stats
+
+---
+
+## 📁 Projects
+
+- MediConnect (https://github.com/21ISR057/HealthCamp) – Won second place in 3o hour KEC hackathon.Developed a healthcare app to improve access to free health camps,vaccinations, and emergency services. Features include real-timeupdates, multi-language support, and easy online registration,empowering both users and healthcare providers.
+TECHNOLOGIES : ReactNative ,Firebase and Typescript.
+ROLE : Github management, Developer.
+DURATION : 30 hours.
+
+JourneyEase (https://github.com/swethapushpavel/Consultancy-Project) – he project is for the customers to book the vehicles on onlineplatform as per their comfort needed.
+TECHNOLOGIES : Bootstrap, Node js and MongoDB.
+ROLE : Full Stack Developer.
+DURATION : 1 month.
+---
+
+## 📬 Contact
+
+- **Email**: (mailto:swethapushpavelv@gmail.com)  
+- **LinkedIn**: (https://www.linkedin.com/in/swetha-pushpavel-321575259/)
+
+---
+
+## 🤝 Contributions and Collaboration
+
+I’m open to collaboration and contributing to open-source projects. Let’s connect if you’re working on something meaningful!
+
+---
+
+## 💬 Let’s Connect!
+
+If you're into building cool things, sharing knowledge, or learning together — feel free to reach out. Let's make tech awesome together!
+
+---
+
+_Thanks for visiting my GitHub profile!_ 🌟
