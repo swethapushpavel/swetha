@@ -46,8 +46,8 @@ DURATION : 1 month
 
 ## 📬 Contact
 
-- **Email**: (mailto:swethapushpavelv@gmail.com)  
-- **LinkedIn**: (https://www.linkedin.com/in/swetha-pushpavel-321575259/)
+- **Email**: mailto: swethapushpavelv@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/swetha-pushpavel-321575259/
 
 ---
 
